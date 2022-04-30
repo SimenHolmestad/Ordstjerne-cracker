@@ -1,0 +1,12 @@
+.DS_Store
+.idea
+*.log
+tmp/
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+nsf2021.txt
+nsf2021.zip
